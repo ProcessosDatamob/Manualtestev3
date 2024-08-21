@@ -1,0 +1,27 @@
+{
+  "NomeProduto": "TESTE DEV",
+  "EnderecoProduto": "https://ent-clarobr.datamobpro.com/login",
+  "Notas": {
+    "NotasManualAdminSemiOS_Padrao_PT": "true"
+  },
+  "NotasManualAdminSemiOS_Padrao_PT": {
+    "0": "**NOTA** \n O campo '**pesquisa**' permite inserir palavras-chave relevantes para encontrar rapidamente informações específicas relacionadas ao produto.",
+    "1": "**NOTA** \n Nos campos Certificado do Cliente e Certificado do Servidor, caso não desejar subir arquivo, basta manter a opção 'Selecione uma opção', selecionada, assim o sistema não habilitará os campos de carregamento do arquivo.",
+    "2": "**NOTA** \n Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma aplicação, se faz necessário, a inclusão de forma manual dos seguintes pacotes de Sistema:&#x20;",
+    "3": "**NOTA** \n Ao selecionar a opção “**Aberta**” os aplicativos adicionados na política apresentarão o tipo de instalação: **Instalação Forçada**, pois entende que todos os aplicativos já estão disponíveis.",
+    "4": "**NOTA** \n Importante ressaltar que o tipo de instalação “Pré-Instalado” de um aplicativo, acontece uma única vez no dispositivo. Ou seja: quando um aplicativo é pré-instalado é deletado pelo usuário, ao alterar a política que tenha o mesmo aplicativo com o tipo de instalação “pré-instalado” o aplicativo não será apresentado no dispositivo pois ele já foi removido anteriormente.",
+    "5": "**NOTA** \n As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._ <mark style='color:blue;'>Estas configurações de trabalho dependem da empresa que criou a aplicação.</mark>",
+    "6": "**NOTA** \n Caso o aplicativo não esteja na Google Play, as opções 'Pré-instalado' e 'Instalação forçada' terão o mesmo efeito que a opção 'Disponível'. Ou seja, o aplicativo fica disponível para instalação, o usuário tem a opção de instalá-lo conforme sua conveniência. Não é instalado automaticamente no dispositivo.",
+    "7": "**NOTA** \n Para garantir a captura online da localização do dispositivo no ato do provisionamento do dispositivo, a configuração **“Modo de Localização”** será apresentada como padrão **“Ativa”** na criação da política e poderá ser alterada pelo usuário administrador.",
+    "8": "**NOTA** \n Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.",
+    "9": "**NOTA** \n No relatório exportado em Excel tem uma coluna '**Alterações**' onde é possível consultar os campos modificados.",
+    "10": "**NOTA** \n Clicando em ↑↓ é possível ordenar a coluna de Data e Hora.",
+    "11": "**NOTA** \n Quando selecionar um usuário administrador irá exibir sua atividade e categoria.",
+    "12": "**NOTA** \n 1. O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação 'Disponível', sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.\n2. Caso o pacote inserido pelo usuário esteja diferente do pacote do app disponível no link de download:\n   * _A Notificação ficará fixa no dispositivo até que o mesmo seja reiniciado_\n   * _O App será removido do dispositivo automaticamente pela Google_",
+    "13": "**NOTA** \n A tela “**Localização de Dispositivos**” apresenta um relatório da última localização registrada, o que significa que ao realizar a busca de um período, alguns dispositivos podem não ser apresentados devido ao último registro não corresponder ao período pesquisado.",
+    "14": "**NOTA** \n Importante ressaltar que o endereço apresentado pode sofrer alteração ao atualizar a tela, pois sempre vai apresentar a última localização do dispositivo.",
+    "15": "**NOTA** \n Para reiniciar os serviços no caso de perda de comunicação do aplicativo, clique em “Nova Mensagem”, envie a mensagem 'start\\_services' para os dispositivos afetados, quando o aplicativo receber o push com o comando, ele irá inicializar os processos do aplicativo, ativar os alarmes do aplicativo e enviar as informações pertinentes do aplicativo, incluindo Device Info, Consumos, Site e SMS.",
+    "16": "**NOTA** \n Ao completar o registro, o sistema enviará um e-mail ao usuário com um link para criar sua senha."
+  }
+}
+
